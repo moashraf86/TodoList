@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  cursor: pointer;
+}
+
+.checked {
+  font-style: italic;
+  text-decoration: line-through;
+  color: darkgray;
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display: inline-block;
+}
